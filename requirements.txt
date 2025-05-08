@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+alpha_vantage
+scikit-learn
+tensorflow
+streamlit
+backtrader
