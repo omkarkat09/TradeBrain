@@ -6,3 +6,4 @@ __pycache__/
 .DS_Store
 *.h5
 *.log
+.env
